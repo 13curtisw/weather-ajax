@@ -1,0 +1,66 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#wrapper{
+	background-color: pink;
+	width:1000px;
+	margin: 0 auto;
+	padding:50px;
+}
+
+#left{
+	display:inline-block;
+	height:400px;
+	width:250px;
+	margin-right:50px;
+	border: 2px solid black;
+	padding:20px;
+}
+#right{
+	display:inline-block;
+	width:600px;
+	height:400px;
+	vertical-align: top;
+	border: 2px solid black;
+	padding:20px;
+
+}
+#top_submit{
+	width:250px;
+	height:100px;
+	
+	display:block;
+	text-align: center;
+}
+button{
+	display:block;
+	margin:0 auto;
+
+}
+h3{
+	vertical-align: top;
+}
+.info{
+	display:inline-block;
+	padding:20px;
+	border: 1px solid;
+	margin:20px;
+	margin-left:40px;
+
+}
+i{
+	display:inline-block;
+}
+#temp{
+	display:inline-block;
+	width:150px;
+}
+
+
+
+
+
+
+
